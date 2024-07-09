@@ -22,6 +22,7 @@ def measure_time(n: int, max_delay: int) -> float:
 
     return total_time / n
 
+
 if __name__ == "__main__":
     n = 5
     max_delay = 9
