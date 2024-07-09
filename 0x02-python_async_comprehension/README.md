@@ -3,8 +3,6 @@
 
 `Python` `Back-end`
 
-- By Emmanuel Turlay, Staff Software Engineer at Cruise
-
 ![Async Comprehension](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/ee85b9f67c384e29525b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220628%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220628T114249Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=1cc1a4699aca27bc27e0cfce0d14c9bb0f6f50bc1891bf6ae903dc100cb4bf36)
 
 Resources
